@@ -40,6 +40,44 @@ The circuit detects a touch input and uses the NE555 timer to generate an output
 | TP2 | Connector | Buzzer output |
 | TP3 | Connector | Touch input |
 
+## Design Images
+
+### Circuit Schematic
+
+Complete circuit schematic of the touch-activated calling bell, showing the NE555P timer, touch-input section, power supply, and buzzer output.
+
+![Circuit Schematic](Schematic%20Diagram.png)
+
+### PCB Layout
+
+Final two-layer PCB layout showing component footprints, copper tracks, pads, board outline, and routing.
+
+![PCB Layout](PCB%20Layout.png)
+
+### Component Footprints
+
+PCB footprint view showing the physical footprints assigned to the components before final routing.
+
+![Component Footprints](Footprints.png)
+
+### 3D PCB View
+
+Three-dimensional view of the designed PCB showing component placement and the overall physical board arrangement.
+
+![3D PCB View](3D%20View.png)
+
+### Gerber File Visualization
+
+Generated Gerber layer visualization used to verify the PCB manufacturing data.
+
+![Gerber View](Gerber%20View.png)
+
+### Gerber Layer View
+
+Additional Gerber visualization showing the PCB manufacturing layers and their alignment.
+
+![Gerber Layer View](Gerber%20View_.png)
+
 ## Design Considerations
 
 - Designed as a compact 2-layer PCB.
